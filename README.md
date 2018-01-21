@@ -1,4 +1,4 @@
-# C2-collection 
+# C2-collections
 
 Twitter 
 <a> https://github.com/PaulSec/twittor </a>
