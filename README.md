@@ -6,6 +6,9 @@ https://github.com/EmpireProject/Empire
 ## Metasploit
 https://github.com/rapid7/metasploit-framework
 
+## Trevor by TrustedSec
+https://github.com/trustedsec/trevorc2
+
 ## Twitter 
 https://github.com/PaulSec/twittor 
 
@@ -31,9 +34,6 @@ https://github.com/Arno0x/WSC2
 https://github.com/0x09AL/Browser-C2 
 
 https://pentestlab.blog/tag/browser-c2/
-
-## Trevor by TrustedSec
-https://github.com/trustedsec/trevorc2
 
 ## DNS
 https://github.com/iagox86/dnscat2
