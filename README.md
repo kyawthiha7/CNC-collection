@@ -23,6 +23,7 @@ https://github.com/Arno0x/WSC2
 
 ## Browser
 https://github.com/0x09AL/Browser-C2 
+
 https://pentestlab.blog/tag/browser-c2/
 
 ## Trevor by TrustedSec
