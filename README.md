@@ -1,4 +1,10 @@
-# C2-collections
+# Open Source C2-collections 
+
+## Empire
+https://github.com/EmpireProject/Empire
+
+## Metasploit
+https://github.com/rapid7/metasploit-framework
 
 ## Twitter 
 https://github.com/PaulSec/twittor 
@@ -31,3 +37,7 @@ https://github.com/trustedsec/trevorc2
 
 ## DNS
 https://github.com/iagox86/dnscat2
+
+## Fruity
+https://github.com/xtr4nge/FruityC2
+
