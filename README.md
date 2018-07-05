@@ -8,3 +8,6 @@ Powershell
 
 Merlin
 <a> https://github.com/Ne0nd0g/merlin </a>
+
+Web Interface
+https://github.com/sweetsoftware/Ares 
