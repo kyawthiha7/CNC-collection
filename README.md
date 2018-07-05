@@ -28,3 +28,5 @@ https://pentestlab.blog/tag/browser-c2/
 ## Trevor by TrustedSec
 https://github.com/trustedsec/trevorc2
 
+## DNS
+https://github.com/iagox86/dnscat2
