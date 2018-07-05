@@ -1,13 +1,30 @@
 # C2-collections
 
-Twitter 
-<a> https://github.com/PaulSec/twittor </a>
+## Twitter 
+https://github.com/PaulSec/twittor 
 
-Powershell
-<a> https://github.com/nettitude/PoshC2 </a>
+## Powershell
+https://github.com/nettitude/PoshC2
 
-Merlin
-<a> https://github.com/Ne0nd0g/merlin </a>
+## Merlin
+https://github.com/Ne0nd0g/merlin 
 
-Web Interface
+## Web Interface
 https://github.com/sweetsoftware/Ares 
+
+## Javascript
+https://github.com/aspiggy/JSRAT
+
+## ICMP
+https://github.com/inquisb/icmpsh
+
+## Web Socket
+https://github.com/Arno0x/WSC2
+
+## Browser
+https://github.com/0x09AL/Browser-C2 
+https://pentestlab.blog/tag/browser-c2/
+
+## Trevor by TrustedSec
+https://github.com/trustedsec/trevorc2
+
