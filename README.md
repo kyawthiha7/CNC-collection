@@ -13,7 +13,7 @@ https://github.com/rapid7/metasploit-framework
 
 - [Domain Fronting with meterpreter](https://bitrot.sh/post/30-11-2017-domain-fronting-with-meterpreter/)
 - [Meterpreter stage AV/IDS evasion with powershell](https://arno0x0x.wordpress.com/2016/04/13/meterpreter-av-ids-evasion-powershell/)
-- 
+
 
 ## Trevor by TrustedSec
 https://github.com/trustedsec/trevorc2
