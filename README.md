@@ -7,6 +7,8 @@ https://github.com/EmpireProject/Empire
 - [Rome Didn’t Fall in a Day: Building A Resilient Empire C2, Part One](https://bneg.io/2017/05/08/rome-didnt-fall-in-a-day-building-a-resilient-empire-c2-part-one/)
 - [Rome Didn’t Fall in a Day: Building A Resilient Empire C2, Part Two](https://implicitdeny.org/2016/05/rome-didnt-fall-day-building-resilient-empire-c2-part-two/)
 - [Tale of a Red Teamer](https://holdmybeersecurity.com/2018/04/30/tales-of-a-red-teamer-ub-2018/)
+- [Domain Fronting with Empire](https://holdmybeersecurity.com/2018/06/27/how-to-red-team-domain-fronting-with-powershell-empire-and-cloudfront/)
+
 
 ## Metasploit
 https://github.com/rapid7/metasploit-framework
