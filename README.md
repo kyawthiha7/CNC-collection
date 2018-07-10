@@ -3,8 +3,17 @@
 ## Empire
 https://github.com/EmpireProject/Empire
 
+- [Empire HTTPS redirector with mod_rewrite](https://bluescreenofjeff.com/2018-04-12-https-payload-and-c2-redirectors/)
+- [Rome Didn’t Fall in a Day: Building A Resilient Empire C2, Part One](https://bneg.io/2017/05/08/rome-didnt-fall-in-a-day-building-a-resilient-empire-c2-part-one/)
+- [Rome Didn’t Fall in a Day: Building A Resilient Empire C2, Part Two](https://implicitdeny.org/2016/05/rome-didnt-fall-day-building-resilient-empire-c2-part-two/)
+- [Tale of a Red Teamer](https://holdmybeersecurity.com/2018/04/30/tales-of-a-red-teamer-ub-2018/)
+
 ## Metasploit
 https://github.com/rapid7/metasploit-framework
+
+- [Domain Fronting with meterpreter](https://bitrot.sh/post/30-11-2017-domain-fronting-with-meterpreter/)
+- [Meterpreter stage AV/IDS evasion with powershell](https://arno0x0x.wordpress.com/2016/04/13/meterpreter-av-ids-evasion-powershell/)
+- 
 
 ## Trevor by TrustedSec
 https://github.com/trustedsec/trevorc2
