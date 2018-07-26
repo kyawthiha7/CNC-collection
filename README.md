@@ -17,6 +17,8 @@ https://github.com/rapid7/metasploit-framework
 - [Meterpreter stage AV/IDS evasion with powershell](https://arno0x0x.wordpress.com/2016/04/13/meterpreter-av-ids-evasion-powershell/)
 - [how-to-red-team-setting-up-environment](https://holdmybeersecurity.com/2017/10/15/part-3-how-to-red-team-setting-up-environment/)
 
+## Kodiac
+- [Kodiac C2](https://github.com/zerosum0x0/koadic)
 
 ## Trevor by TrustedSec
 https://github.com/trustedsec/trevorc2
