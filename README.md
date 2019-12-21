@@ -1,5 +1,22 @@
 # Open Source C2-collections 
 
+## BlockChainC2
+https://github.com/xpn/BlockchainC2
+
+## Covenant
+https://github.com/cobbr/Covenant
+- [Entering a Covenant: .NET Command and Control] (https://posts.specterops.io/entering-a-covenant-net-command-and-control-e11038bcf462)
+
+## SILENTTRINITY
+https://github.com/byt3bl33d3r/SILENTTRINITY
+
+## Browser-ExternalC2
+https://github.com/mdsecactivebreach/Browser-ExternalC2
+- [External C2, IE COM Objects and how to use them for Command and Control] (https://www.mdsec.co.uk/2019/02/external-c2-ie-com-objects-and-how-to-use-them-for-command-and-control/)
+
+## Merlin
+https://github.com/Ne0nd0g/merlin 
+
 ## Empire
 https://github.com/EmpireProject/Empire
 
@@ -9,7 +26,6 @@ https://github.com/EmpireProject/Empire
 - [Tale of a Red Teamer](https://holdmybeersecurity.com/2018/04/30/tales-of-a-red-teamer-ub-2018/)
 - [Domain Fronting with Empire](https://holdmybeersecurity.com/2018/06/27/how-to-red-team-domain-fronting-with-powershell-empire-and-cloudfront/)
 
-
 ## Metasploit
 https://github.com/rapid7/metasploit-framework
 
@@ -18,7 +34,7 @@ https://github.com/rapid7/metasploit-framework
 - [how-to-red-team-setting-up-environment](https://holdmybeersecurity.com/2017/10/15/part-3-how-to-red-team-setting-up-environment/)
 
 ## Kodiac
-- [Kodiac COM Command & Control ](https://github.com/zerosum0x0/koadic)
+https://github.com/zerosum0x0/koadic
 
 ## Trevor by TrustedSec
 https://github.com/trustedsec/trevorc2
@@ -29,11 +45,14 @@ https://github.com/nccgroup/gitpwnd
 ## Twitter 
 https://github.com/PaulSec/twittor 
 
+## Gcat
+https://github.com/byt3bl33d3r/gcat
+
 ## Powershell
 https://github.com/nettitude/PoshC2
 
-## Merlin
-https://github.com/Ne0nd0g/merlin 
+## transportc2
+https://github.com/m8r0wn/transportc2
 
 ## Web Interface
 https://github.com/sweetsoftware/Ares 
